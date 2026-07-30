@@ -1,0 +1,12 @@
+{
+  "name": "aw-core",
+  "version": "0.1.0",
+  "description": "Open methodology and reference implementations for AW (Artificial Wisdom) — rule-based judgment/decision-making models.",
+  "main": "index.js",
+  "scripts": {
+    "example": "node examples/run-examples.js"
+  },
+  "license": "MIT",
+  "keywords": ["decision-making", "judgment", "rule-based", "mcp"],
+  "author": ""
+}
